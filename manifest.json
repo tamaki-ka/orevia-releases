@@ -1,6 +1,11 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/tamaki-ka/orevia-releases/releases/download/v1.0.0/Orevia-1.0.0.zip",
-  "sha256": "2c4a63e0659bb38ec939467def66c71cce621cd34c059ea0dc5b3e64290ee8f0",
-  "release_notes": ""
+  "version": "1.1.0",
+  "download_url": "https://github.com/tamaki-ka/orevia-releases/releases/download/v1.1.0/Orevia-1.1.0.zip",
+  "sha256": "b92d3d6266f43e5aa9e336494b9b2daf7b1b5f2b2734e01520537ac5969a1927",
+  "release_notes": "",
+  "signature": {
+    "algorithm": "Ed25519",
+    "key_id": "f6c661678e999c79",
+    "value": "LJr5soPwYmIC8Lo8//l8GIrGCmQrzIUesZpijVg5ZlGzqTj1GN17Obh6tdYPXNKoAxP7G1arCR6RK2UqKE6kAA=="
+  }
 }
